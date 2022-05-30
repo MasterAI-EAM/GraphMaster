@@ -10,9 +10,7 @@ Example paper used:
 
 Example Figure:
 
-![1](test/ori/1.jpg)
-
-
+<img src="test/ori/1.jpg" width="450">
 
 ## Figure Extraction
 
