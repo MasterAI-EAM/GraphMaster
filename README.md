@@ -30,7 +30,7 @@ Gives the best estimate of the x and y-axis(horizontal and vertical axes) for th
 
 Example Y-axis detection:
 
-![Y-Axis](Example/Figure /Y-Axis.png)
+![Y-Axis](Example/Figure/Y-Axis.png)
 
 We detect axes based on the max-continuous black pixels.
 
