@@ -108,18 +108,10 @@ If you used the manually extracted data, the result might be not accurate due to
 
 If any problems, please send an email to:
 
-**University of New South Wales**
-
 Tong Xie, tong.xie@unsw.edu.au
 
+Created by
+**University of New South Wales** Tong
+**Melbourne University** Ran
+**University of California, Bekerley**  Nather 
 
-
-**Melbourne University** 
-
-Ran Liang
-
-
-
-**University of California, Berkeley** 
-
-Nather Hao
