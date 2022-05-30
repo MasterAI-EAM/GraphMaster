@@ -10,7 +10,9 @@ Example paper used:
 
 Example Figure:
 
-![1](/Users/z5293104/Library/CloudStorage/OneDrive-UNSW/Jupy&PC/Helios/GraphMaster/test/ori/1.jpg)
+![1](../GraphMaster/test/ori/1.jpg)
+
+
 
 ## Figure Extraction
 
@@ -28,7 +30,7 @@ Gives the best estimate of the x and y-axis(horizontal and vertical axes) for th
 
 Example Y-axis detection:
 
-![Y-Axis](/Users/z5293104/Desktop/Y-Axis.png)
+![Y-Axis](Example/Figure /Y-Axis.png)
 
 We detect axes based on the max-continuous black pixels.
 
@@ -56,7 +58,7 @@ We experimented with a different threshold value and found threshold value equal
 
 Example clustered graph
 
-![download](/Users/z5293104/Desktop/download.png)
+![Cluster](Example/Figure /Cluster.png)
 
 Then our model will select from these 16 charts, for example, it automatically selects 7 charts for the example graphs.
 
@@ -64,11 +66,25 @@ Then our model will select from these 16 charts, for example, it automatically s
 
 We use the pixel projection methods to calculate both the x-value and y-value of each chart, and then save it as a CSV profile. The value-tick ration is calculated by:
 
-![Screen Shot 2022-05-30 at 4.50.13 pm](/Users/z5293104/Desktop/Screen Shot 2022-05-30 at 4.50.13 pm.png)
+![Ticks Ratio](Example/Figure/Ticks Ratio.png)
 
 Example Outputs:
 
-![Example Result](/Users/z5293104/Desktop/Example Result.png)![2](/Users/z5293104/Desktop/2.png)![3](/Users/z5293104/Desktop/3.png)![4](/Users/z5293104/Desktop/4.png)![5](/Users/z5293104/Desktop/5.png)![6](/Users/z5293104/Desktop/6.png)![7](/Users/z5293104/Desktop/7.png)
+![1](Example/Figure/1.png)
+
+![1](Example/Figure/2.png)
+
+![1](Example/Figure/3.png)
+
+![1](Example/Figure/4.png)
+
+![1](Example/Figure/5.png)
+
+![1](Example/Figure/5.png)
+
+![1](Example/Figure/6.png)
+
+![1](Example/Figure/7.png)
 
 ## Result Analysis(Optional)
 
