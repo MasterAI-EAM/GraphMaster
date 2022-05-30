@@ -2,8 +2,6 @@
 
 Fully automated end to end framework to extract data from complex charts and other figures in scientific literature.
 
-
-
 Example paper used:
 
  *[David Payne](https://aip.scitation.org/author/Payne%2C+David)**,* *[Tsun Hang Fung](https://aip.scitation.org/author/Fung%2C+Tsun+Hang)**,* *[Muhammad Umair Khan](https://aip.scitation.org/author/Khan%2C+Muhammad+Umair)**,* *[Malcolm Abbott](https://aip.scitation.org/author/Abbott%2C+Malcolm)**. et* al. Understanding the optics of industrial black silicon. AIP Conference Proceedings 1999,05007(2018) 571, 95–98 (2019).
@@ -64,7 +62,7 @@ Then our model will select from these 16 charts, for example, it automatically s
 
 We use the pixel projection methods to calculate both the x-value and y-value of each chart, and then save it as a CSV profile. The value-tick ration is calculated by:
 
-![Ticks Ratio](Example/Figure/Ticks Ratio.png)
+<img src="Example/Figure/Ticks Ratio.png">
 
 Example Outputs:
 
