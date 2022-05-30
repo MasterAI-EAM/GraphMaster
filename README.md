@@ -10,7 +10,7 @@ Example paper used:
 
 Example Figure:
 
-![1](../GraphMaster/test/ori/1.jpg)
+![1](test/ori/1.jpg)
 
 
 
@@ -58,7 +58,7 @@ We experimented with a different threshold value and found threshold value equal
 
 Example clustered graph
 
-![Cluster](Example/Figure /Cluster.png)
+![Cluster](Example/Figure/Cluster.png)
 
 Then our model will select from these 16 charts, for example, it automatically selects 7 charts for the example graphs.
 
