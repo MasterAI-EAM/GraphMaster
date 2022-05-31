@@ -76,8 +76,6 @@ Example Outputs:
 
 ![1](Example/Figure/5.png)
 
-![1](Example/Figure/5.png)
-
 ![1](Example/Figure/6.png)
 
 ![1](Example/Figure/7.png)
@@ -110,7 +108,7 @@ Created by
 
 **University of New South Wales** Tong
 
-**Melbourne University** Ran
+**University of Melbourne** Ran
 
 **University of California, Bekerley**  Nather 
 
